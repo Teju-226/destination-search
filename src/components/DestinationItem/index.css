@@ -1,0 +1,9 @@
+/* Write your CSS here */
+.image {
+  width: 200px;
+  height: 150px;
+}
+.list-items {
+  list-style-type: none;
+  margin: 15px;
+}
